@@ -1,0 +1,18 @@
+body {
+    color: red;
+    /* background-color: blue; */
+    font-size: 100%;
+    background-color: rgb(0, 217, 255);
+}
+
+p {
+    line-height: 20px;
+}
+
+.formulario {
+   text-align: center;
+   border-style: groove;
+   color: black;
+   border-radius: 10%;
+}
+    
